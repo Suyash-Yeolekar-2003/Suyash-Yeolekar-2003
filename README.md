@@ -4,6 +4,9 @@
 
 <h2 align="left">AI Enthusiast | Machine Learning and Data Science Developer | Innovating with Generative AI</h2>
 
+![image](https://github.com/user-attachments/assets/33a0763d-53ac-4c4f-8705-211d81ca8ebb)
+
+
 ###
 
 <h2 align="left">About me</h2>
